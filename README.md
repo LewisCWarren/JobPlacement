@@ -206,7 +206,7 @@ As it turned out, the view was lacking a way to post the information, and becaus
 
 ```
 
-![image of Register page]()
+![image of Register page](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(13).png)
 
 
 ## Other Skills Developed
