@@ -2,7 +2,7 @@
 
 ## Introduction
 
-During the Last two weeks of the Tech Academy course. We work on a a live project, this was a full scale MVC web application for a theatre written in C#. This opportunity allowed me to get real experience building a full project including debugging, refactoring, and adding new features. I had to orient myself to a project that was already in full swing and far bigger than any previous assignment. I also had the chance to work on plenty of front-end design. Because of the team environment, I also gained practical experience in sprint planning, stand-ups, and proper version control, along with experience in managing merge conflicts.
+During the Last two weeks of the Tech Academy course. We work on a live project, this was a full scale MVC web application for a theater written in C#. This opportunity allowed me to get real experience building a full project including debugging, refactoring, and adding new features. I had to orient myself to a project that was already in full swing and far bigger than any previous assignment. I also had the chance to work on plenty of front-end design. Because of the team environment, I also gained practical experience in sprint planning, stand-ups, and proper version control, along with experience in managing merge conflicts.
 
 Below are descriptions of some of the stories I worked on including code snippets and nav links.
 
@@ -12,7 +12,7 @@ Below are descriptions of some of the stories I worked on including code snippet
 
 We had a helper method for uploading images and converting them to byte array formats. The byte array gets stored in the database. 
 
-I implemented this helper method in the productions controller to be able to add a promotion photo to the production class when a user wants to create or edit a production.  
+I invoked this helper method in the productions controller to be able to add a promotion photo to the production class when a user wants to create or edit a production.  
 
 ``` C#
 [HttpPost]
@@ -39,7 +39,7 @@ TicketLink,Season,IsCurrent,IsWorldPremiere,ShowDays")] Production production, H
 
 The Calendar Events controller was not allowing for edits of existing items. 
 
-To solve this i created some dummy events to place in the calendar and then used breakpoints in the controller to see what was happening to the data upon edit. .
+To solve this I created some dummy events to place in the calendar and then used breakpoints in the controller to see what was happening to the data upon edit.
                 
 ```C#
 
@@ -75,6 +75,7 @@ To solve this i created some dummy events to place in the calendar and then used
             return View();
         }
 ```
+### Solution
 
 As it turned out, the view was lacking a way to post the information, and because it was not listing the EventId on the front end. It was unable to pass it along for a database update. the fix simply required a FormMethod.Post, as well as a way to recieve the item from the model such as
 
@@ -206,13 +207,15 @@ As it turned out, the view was lacking a way to post the information, and becaus
 
 ```
 
+
+My final product looks like this
+
 ![image of Register page](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(13).png)
 ![image of Register page](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(14).png)
 
 ## Other Skills Developed
 
 * Working with a group of developers to identify front and back end bugs to the improve usability of an application.
-* Improving project flow by communicating about who needs to check out which files for their current story.
-* Learning new efficiencies from other developers by observing their workflow and asking questions.
+* Managing merge conflicts.
 * Improving ability to self teach through google research and tutorials.
  
