@@ -77,7 +77,7 @@ To solve this I created some dummy events to place in the calendar and then used
 ```
 ### Solution
 
-As it turned out, the view was lacking a way to post the information, and because it was not listing the EventId on the front end. It was unable to pass it along for a database update. the fix simply required a FormMethod.Post, as well as a way to recieve the item from the model such as
+Through debuggin I discovered that the view was lacking a way to post the information, and because it was not listing the EventId on the front end. It was unable to pass it along for a database update. the fix simply required a FormMethod.Post, as well as a way to recieve the item from the model such as
 
 ```cshtml
 
