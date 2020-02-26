@@ -12,7 +12,9 @@ Below are descriptions of some of the stories I worked on including code snippet
 
 We had a helper method for uploading images and converting them to byte array formats. The byte array gets stored in the database. 
 
-I invoked this helper method in the productions controller to be able to add a promotion photo to the production class when a user wants to create or edit a production.  
+I invoked this helper method in the productions controller to be able to add a promotion photo to the production class when a user wants to create or edit a production. 
+
+This particular statement is taking in the user input of "upload", testing to see if indeed there is an input with the "if" statement, and then calling the helper method to convert that information into bytes for the database.
 
 ``` C#
 [HttpPost]
@@ -77,7 +79,7 @@ To solve this I created some dummy events to place in the calendar and then used
 ```
 ### Solution
 
-Through debuggin I discovered that the view was lacking a way to post the information, and because it was not listing the EventId on the front end. It was unable to pass it along for a database update. the fix simply required a FormMethod.Post, as well as a way to recieve the item from the model such as
+Through debugging I discovered that the view was lacking a way to post the information, and because it was not listing the EventId on the front end. It was unable to pass it along for a database update. the fix simply required a FormMethod.Post, as well as a way to recieve the item from the model such as
 
 ```cshtml
 
@@ -207,6 +209,9 @@ Through debuggin I discovered that the view was lacking a way to post the inform
 
 ```
 
+When I began this user story, the registration page looked like this
+
+![Before Photo](
 
 My final product looks like this
 
