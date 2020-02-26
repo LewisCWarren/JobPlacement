@@ -211,14 +211,13 @@ Through debugging I discovered that the view was lacking a way to post the infor
 
 When I began this user story, the registration page looked like this.
 
-![Before Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(34).png)
-![Before Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(35).png)
+![Before Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/ScreenshotFull(1).png)
+
 
 ### Final Product
 My final product looks like this
 
-![image of Register page](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(13).png)
-![image of Register page](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(14).png)
+![After Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/ScreenshotFull(2).png)
 
 ## Other Skills Developed
 
