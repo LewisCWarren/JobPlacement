@@ -209,9 +209,9 @@ Through debugging I discovered that the view was lacking a way to post the infor
 
 ```
 
-When I began this user story, the registration page looked like this
+When I began this user story, the registration page looked like this.
 
-![Before Photo](
+![Before Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(34).png)
 
 My final product looks like this
 
