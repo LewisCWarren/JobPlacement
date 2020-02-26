@@ -214,6 +214,7 @@ When I began this user story, the registration page looked like this.
 ![Before Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(34).png)
 ![Before Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(35).png)
 
+### Final Product
 My final product looks like this
 
 ![image of Register page](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(13).png)
