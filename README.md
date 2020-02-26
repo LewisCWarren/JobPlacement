@@ -212,6 +212,7 @@ Through debugging I discovered that the view was lacking a way to post the infor
 When I began this user story, the registration page looked like this.
 
 ![Before Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(34).png)
+![Before Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/Screenshot%20(35).png)
 
 My final product looks like this
 
