@@ -14,7 +14,7 @@ We had a helper method for uploading images and converting them to byte array fo
 
 I invoked this helper method in the productions controller to be able to add a promotion photo to the production class when a user wants to create or edit a production. 
 
-This particular statement is taking in the user input of "upload", testing to see if indeed there is an input with the "if" statement, and then calling the helper method to convert that information into bytes for the database.
+This particular statement is taking in the user input of "upload", which is the image file given by the user. Then testing to see if indeed the user has given a file to work on with the "if" statement, and then calling the helper method to convert that information into bytes for the database.
 
 ``` C#
 [HttpPost]
