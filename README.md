@@ -215,7 +215,7 @@ When I began this user story, the registration page looked like this.
 
 
 ### Final Product
-My final product looks like this
+My final product looks like this.
 
 ![After Photo](https://github.com/LewisCWarren/JobPlacement/blob/master/ScreenshotFull(2).png)
 
