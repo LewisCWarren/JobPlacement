@@ -2,7 +2,7 @@
 
 ## Introduction
 
-During the Last two weeks of the Tech Academy course. We work on a live project, this was a full scale MVC web application for a theater written in C#. This opportunity allowed me to get real experience building a full project including debugging, refactoring, and adding new features. I had to orient myself to a project that was already in full swing and far bigger than any previous assignment. I also had the chance to work on plenty of front-end design. Because of the team environment, I also gained practical experience in sprint planning, stand-ups, and proper version control, along with experience in managing merge conflicts.
+During the Last two weeks of the Tech Academy course. We worked on a full scale MVC web application for a theater written in C#. This opportunity allowed me to get real experience building a full project including debugging, refactoring, and adding new features. I had to orient myself to a project that was already in full swing and far bigger than any previous assignment. I also had the chance to work on plenty of front-end design. Because of the team environment, I also gained practical experience in sprint planning, stand-ups, and proper version control, along with experience in managing merge conflicts.
 
 Below are descriptions of some of the stories I worked on including code snippets and nav links.
 
